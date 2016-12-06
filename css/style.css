@@ -1,0 +1,38 @@
+.portfolio-projects-imgs {
+	width:360px;
+	height:260px;
+	border-bottom:3px solid #eeeeee;
+	background-color: white;
+}
+
+header {
+	background-image: url('../newimgs/bg.jpg');
+}
+
+#mainNav {
+	background: black;
+}
+
+.divOfHeaderText {
+	background: rgba(0, 0, 0, .7);
+	padding:50px;
+}
+
+.profileimg {
+	width:350px;
+	height:350px;
+}
+
+.imgInModal {
+	width:370px;
+	height:300px;
+}
+
+.section-heading {
+	text-transform: none;
+}
+
+.imgInModal {
+	max-height:250px;
+	max-width:300px;
+}
