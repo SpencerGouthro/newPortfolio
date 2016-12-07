@@ -36,3 +36,9 @@ header {
 	max-height:250px;
 	max-width:300px;
 }
+
+@media (max-width: 750px) {
+    .emailtext {
+        font-size:1.7em;
+    }
+}
