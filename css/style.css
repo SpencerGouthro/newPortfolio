@@ -42,3 +42,12 @@ header {
         font-size:1.7em;
     }
 }
+
+.textshadow  {
+    text-shadow: 2px 2px #000000;
+}
+
+.asteroidtext {
+	font-size:1.2em;
+	color: black;
+}
